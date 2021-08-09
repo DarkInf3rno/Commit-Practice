@@ -1,3 +1,2 @@
-this is simply a test file to make changes to and practice committing. 
-First commit practice
-This section is to test a subsequent pull request
+Ok this section is the most drastic change yet. Lets see what happens when i delete everything else, in this file and drastically alter it. Oh boy git is hard.
+
